@@ -106,7 +106,7 @@ main {
     color: white;
 }
 
-.book_shelf > .book_list > .action > .red:hover {
+.book_shelf > .book_list > .book_item > .action > .red:hover {
     background-color: #d32f2f;
 }
 
